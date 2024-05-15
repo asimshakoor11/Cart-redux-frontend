@@ -50,7 +50,7 @@ const Home = () => {
                                                 >Add TO Cart</Button>
                                                 <img src={element.delimg} className='laimg' alt="" />
 
-                                            </div>
+                                            </div> 
                                         </div>
                                     </Card>
                                 </>
